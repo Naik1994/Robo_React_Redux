@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Robo_React_Redux/static/css/main.ac87e0f5.chunk.css",
+    "main.css": "/Robo_React_Redux/static/css/main.82b1e041.chunk.css",
     "main.js": "/Robo_React_Redux/static/js/main.b95793ef.chunk.js",
     "main.js.map": "/Robo_React_Redux/static/js/main.b95793ef.chunk.js.map",
     "runtime~main.js": "/Robo_React_Redux/static/js/runtime~main.9a8c5d70.js",
@@ -9,10 +9,10 @@
     "static/js/2.39ec0b78.chunk.js": "/Robo_React_Redux/static/js/2.39ec0b78.chunk.js",
     "static/js/2.39ec0b78.chunk.js.map": "/Robo_React_Redux/static/js/2.39ec0b78.chunk.js.map",
     "index.html": "/Robo_React_Redux/index.html",
-    "precache-manifest.696f6853bac92e5255ea5ecc9e93b201.js": "/Robo_React_Redux/precache-manifest.696f6853bac92e5255ea5ecc9e93b201.js",
+    "precache-manifest.2bc6bdb4060b268448475c3e1b979556.js": "/Robo_React_Redux/precache-manifest.2bc6bdb4060b268448475c3e1b979556.js",
     "service-worker.js": "/Robo_React_Redux/service-worker.js",
     "static/css/2.31dafeb2.chunk.css.map": "/Robo_React_Redux/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.ac87e0f5.chunk.css.map": "/Robo_React_Redux/static/css/main.ac87e0f5.chunk.css.map",
+    "static/css/main.82b1e041.chunk.css.map": "/Robo_React_Redux/static/css/main.82b1e041.chunk.css.map",
     "static/media/App.css": "/Robo_React_Redux/static/media/SEGA.82e09f78.TTF"
   }
 }
